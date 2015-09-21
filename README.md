@@ -1,5 +1,5 @@
 # StarSky
-A js visualization work.
+A JavaScript data visualization framework based on Processing.js.
 
 
 StarSky 是基於 Processing.js 所製做出的資料視覺化套件。
